@@ -5,7 +5,7 @@ Somesummarizer::Application.routes.draw do
 
   get "summarize/summarize_percent"
 
-  get "summarize/sumamrize_sentences"
+  get "summarize/summarize_sentences"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

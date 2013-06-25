@@ -4,10 +4,11 @@
     <list default="true" id="08270477-f4a3-46af-a85e-154885a59ccd" name="Default" comment="" />
     <ignored path="somesummarizer.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Gemfile" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372179619417" ignored="false" />
-    <file path="/summarize_controller.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372185864981" ignored="false" />
+    <file path="/Gemfile" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372191090062" ignored="false" />
+    <file path="/summarize_controller.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372191004679" ignored="false" />
     <file path="/Dummy.txt" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372180775767" ignored="false" />
-    <file path="/Ruby Console" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372189083123" ignored="false" />
+    <file path="/Ruby Console" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372191079554" ignored="false" />
+    <file path="/routes.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372190996054" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,19 +28,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="77" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0">
+            <state line="9" column="1" selection-start="160" selection-end="160" vertical-scroll-proportion="0.20059435">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="summarize_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="summarize_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/summarize_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="41" selection-start="723" selection-end="723" vertical-scroll-proportion="0.31939164">
+            <state line="23" column="30" selection-start="585" selection-end="585" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/routes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="22" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -55,16 +65,17 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/controllers/summarize_controller.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2560" />
-    <option name="y" value="-169" />
+    <option name="x" value="129" />
+    <option name="y" value="22" />
     <option name="width" value="2560" />
-    <option name="height" value="1440" />
+    <option name="height" value="798" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -107,6 +118,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="somesummarizer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="somesummarizer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="somesummarizer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -374,14 +399,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2560" y="-169" width="2560" height="1440" extended-state="7" />
-    <editor active="false" />
+    <frame x="129" y="22" width="2560" height="798" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13842481" sideWeight="0.4659091" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13842481" sideWeight="0.4659091" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -472,16 +497,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="77" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0">
+        <state line="7" column="22" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/summarize_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="41" selection-start="723" selection-end="723" vertical-scroll-proportion="0.31939164">
+        <state line="23" column="30" selection-start="585" selection-end="585" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="1" selection-start="160" selection-end="160" vertical-scroll-proportion="0.20059435">
           <folding />
         </state>
       </provider>

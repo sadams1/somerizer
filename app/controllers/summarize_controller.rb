@@ -23,7 +23,7 @@ class SummarizeController < ApplicationController
     render json: @sum_percent
   end
 
-  def sumamrize_sentences
+  def summarize_sentences
     @sample = params[:data]
     @article = OTS::Article.new(@sample)
     sentences = Integer(params[:sentences])
