@@ -4,15 +4,143 @@
     <list default="true" id="08270477-f4a3-46af-a85e-154885a59ccd" name="Default" comment="" />
     <ignored path="somesummarizer.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Gemfile" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372193950298" ignored="false" />
+    <file path="/Gemfile" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374701535441" ignored="false" />
     <file path="/summarize_controller.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372194007725" ignored="false" />
-    <file path="/Dummy.txt" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372180775767" ignored="false" />
-    <file path="/Ruby Console" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372196691014" ignored="false" />
-    <file path="/routes.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372190996054" ignored="false" />
-    <file path="/test_ots.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372280544263" ignored="false" />
-    <file path="$USER_HOME$/dev/live_community_selenium/Jenkins_scripts/test_ots.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372310951158" ignored="false" />
-    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/post_details_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372362507255" ignored="false" />
-    <file path="/post_details_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372362506876" ignored="false" />
+    <file path="/Dummy.txt" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375124045565" ignored="false" />
+    <file path="/Ruby Console" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374700832997" ignored="false" />
+    <file path="/routes.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375303406861" ignored="false" />
+    <file path="/test_ots.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372377771291" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/Jenkins_scripts/test_ots.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372377771291" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/post_details_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375207956836" ignored="false" />
+    <file path="/post_details_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375207956097" ignored="false" />
+    <file path="/index.html" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372891796251" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/new_post_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374613186363" ignored="false" />
+    <file path="/new_post_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374121015718" ignored="false" />
+    <file path="/a.dummy" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374711692627" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/new_post.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375297870431" ignored="false" />
+    <file path="/new_post.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375296562162" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/feedback.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/admin_questions.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/instant_answers.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/widget.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/edit_post.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/user_details.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1373325993043" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/leaderboard.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/admin_communities.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/announcements.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/lounge.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/admin_roles.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/tag.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374798848874" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/admin_flag.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/post_details.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374798478669" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/sign_in.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/home.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375207676568" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/sign_up.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/terms_of_use.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/notifications.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/admin_users.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/admin_header.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/search.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374797815829" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/api.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375142043002" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/admin_user_attributes.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/edit_answer.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/admin_widget.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/admin_tags.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/Jenkins_scripts/Send_Status.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372719856465" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/Jenkins_scripts/QA_Version_Check.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/Jenkins_scripts/webpagetest.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375145415456" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/Jenkins_scripts/Send_Smoke_Status.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/Rakefile" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/browser_shared_context.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374625183653" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/search_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1373325993043" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/feedback_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/widget_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/home_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375297870431" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/announcements_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/api_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374696546245" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/notifications_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/leaderboard_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/lounge_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/ius_e2e_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/admin_questions_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/browser_spec_utils.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375297870431" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/admin_users_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/admin_communities_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372443001615" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/user_details_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1373666115964" ignored="false" />
+    <file path="/user_details_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1373481944345" ignored="false" />
+    <file path="/home.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372799793886" ignored="false" />
+    <file path="/webpagetest.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375126676477" ignored="false" />
+    <file path="/Send_Status.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372718631781" ignored="false" />
+    <file path="/browser_spec_utils.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375297352889" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/controllers/api/v1/search_controller.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1373569921333" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/Gemfile" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375298267586" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/controllers/api/v1/api_controller.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372794075911" ignored="false" />
+    <file path="/search_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1372827047867" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/topic_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374799207702" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/Jenkins_scripts/practice_thread_wpt.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1373483762831" ignored="false" />
+    <file path="/practice_thread_wpt.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1373483762077" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/conf/locale/en.yml" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374613186363" ignored="false" />
+    <file path="/en.yml" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374120963899" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/Jenkins_scripts/another_practice.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1373933976947" ignored="false" />
+    <file path="/another_practice.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1373933741080" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/controllers/questions_controller.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1373569921333" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/views/questions/_form.html.haml" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374083718518" ignored="false" />
+    <file path="/_form.html.haml" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1373643098987" ignored="false" />
+    <file path="/_question_subject.html.haml" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1373572268973" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/views/guidance/_question_subject.html.haml" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1373572386370" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/spec/browser/support/post_details.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1373577003407" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/views/admin/analytics/index.html.haml" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1373639785122" ignored="false" />
+    <file path="/index.html.haml" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1373576457434" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/views/posts/_subnav.html.haml" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1373582766417" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/assets/stylesheets/components/navs.css.scss" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374083718518" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/log/development.log" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1373673895700" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/models/post.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374710346009" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/assets/stylesheets/mobile.css.scss" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1373639785122" ignored="false" />
+    <file path="/tag.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374798848874" ignored="false" />
+    <file path="/topic_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374799207398" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/views/layouts/_actions.html.haml" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1373865450756" ignored="false" />
+    <file path="/_actions.html.haml" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374118345946" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/views/layouts/_metadata_full.html.haml" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1373866880932" ignored="false" />
+    <file path="/_metadata_full.html.haml" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1373837642429" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/views/posts/show.html.haml" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1373866886256" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/views/posts/_post_info.html.haml" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374083716161" ignored="false" />
+    <file path="/_post_info.html.haml" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1373867841323" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/views/topics/show.html.haml" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374083718518" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/views/questions/_actions.html.haml" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374710346009" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/controllers/application_controller.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374097136505" ignored="false" />
+    <file path="/application_controller.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374096698738" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/helpers/friendly_url_helper.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374710346009" ignored="false" />
+    <file path="/friendly_url_helper.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374120197665" ignored="false" />
+    <file path="/home_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375297661840" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/support/topic.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374797351132" ignored="false" />
+    <file path="/topic.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374797351132" ignored="false" />
+    <file path="/browser_shared_context.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374625183306" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/api_widget_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375142379078" ignored="false" />
+    <file path="/api_widget_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374706088818" ignored="false" />
+    <file path="/api.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375142043002" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/Gemfile" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374708940985" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/controllers/announcement_updates_controller.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374710346009" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/views/questions/_ask_question_form.html.haml" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374710346009" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/views/search/index.html.haml" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375298267586" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/db/schema.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375300983116" ignored="false" />
+    <file path="/search.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1374797815829" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community_selenium/spec/browser/api_post_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375145377594" ignored="false" />
+    <file path="/api_post_spec.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375145296158" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/controllers/announcement_help_controller.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375298879655" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/config/routes.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375303406861" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/views/announcement_help/hide.js.erb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375299076003" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/views/layouts/application.html.haml" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375306631514" ignored="false" />
+    <file path="/application.html.haml" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375306631514" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/controllers/announcement_banners_controller.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375300603350" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/views/announcement_banners/hide.js.erb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375300632023" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/models/announcement_banner.rb" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375300654789" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/assets/stylesheets/announcement_banners.css.scss" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375307424199" ignored="false" />
+    <file path="/announcement_banners.css.scss" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375307346818" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/assets/stylesheets/application.css" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375306222727" ignored="false" />
+    <file path="/application.css" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375306220022" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/views/layouts/announcement_banner.html.haml" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375306689831" ignored="false" />
+    <file path="$USER_HOME$/dev/live_community/app/views/layouts/_announcement_banner.html.haml" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375307544723" ignored="false" />
+    <file path="/_announcement_banner.html.haml" changelist="08270477-f4a3-46af-a85e-154885a59ccd" time="1375307544384" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +169,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="summarize_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="summarize_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/summarize_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="39" selection-start="316" selection-end="316" vertical-scroll-proportion="0.35346097">
+            <state line="16" column="39" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="37" selection-start="241" selection-end="255" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/application.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application_controller.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="155" selection-start="56" selection-end="56" vertical-scroll-proportion="0.044576522">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index1.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="110" selection-start="517" selection-end="622" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -53,7 +217,7 @@
       <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="22" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
+            <state line="12" column="6" selection-start="261" selection-end="300" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -69,16 +233,17 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/controllers/summarize_controller.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/public/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
+    <option name="y" value="36" />
     <option name="width" value="1440" />
-    <option name="height" value="804" />
+    <option name="height" value="798" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -106,6 +271,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -121,6 +287,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="somesummarizer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="somesummarizer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="somesummarizer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -172,7 +352,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="RailsProjectView" />
     </panes>
   </component>
@@ -180,6 +359,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../qa_results" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager" selected="IRB console.IRB console">
     <configuration default="false" name="IRB console" type="IrbRunConfigurationType" factoryName="IRB console" temporary="true">
@@ -255,6 +435,62 @@
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
       <method />
     </configuration>
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
     <configuration default="true" type="IrbRunConfigurationType" factoryName="IRB console">
       <module name="" />
       <IRB_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -274,6 +510,13 @@
       <IRB_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
       <IRB_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <IRB_RUN_CONFIG NAME="IS_RAILS_CONSOLE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="false" name="test" type="RakeRunConfigurationType" factoryName="Rake">
@@ -402,14 +645,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="804" extended-state="7" />
-    <editor active="true" />
+    <frame x="0" y="36" width="1440" height="798" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.4659091" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14992826" sideWeight="0.4659091" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -488,21 +731,28 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="10" column="1" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="37" selection-start="241" selection-end="255" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/summarize_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="41" selection-start="723" selection-end="723" vertical-scroll-proportion="0.0">
+        <state line="16" column="39" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+    <entry file="file://$PROJECT_DIR$/public/index1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="22" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
+        <state line="21" column="110" selection-start="517" selection-end="622" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -516,7 +766,77 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/summarize_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="39" selection-start="316" selection-end="316" vertical-scroll-proportion="0.35346097">
+        <state line="16" column="39" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="2" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/summarize_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="41" selection-start="723" selection-end="723" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="1" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="110" selection-start="517" selection-end="622" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/summarize_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="39" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="37" selection-start="241" selection-end="255" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="6" selection-start="261" selection-end="300" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/application.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="155" selection-start="56" selection-end="56" vertical-scroll-proportion="0.044576522">
           <folding />
         </state>
       </provider>

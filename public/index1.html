@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Summary</title>
+    <style type="text/css" media="screen">
+        html, body {
+            background-color: #4B7399;
+            font-family: Verdana, Helvetica, Arial;
+            font-size: 14px;
+        }
+        a { color: #0000FF; }
+
+        #container {
+            width: 75%;
+            margin: 0 auto;
+            background-color: #FFF;
+            padding: 20px 40px;
+            border: solid 1px black;
+            margin-top: 20px;
+        }
+    </style>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+    <script>
+        $(document).ready(function()
+        {
+            $("button").click(function()
+            {
+                var order = document.getElementById('value').value;
+                var sum_type =  $('.summary_type:checked').val();
+                var data1 = {"sentences": 1, "data": order};
+                $.ajax({
+                    url: '/summarize/'+sum_type,
+                    dataType: "json", contentType: "application/json; charset=utf-8",
+                    type: "GET",
+                    data: data1,
+                    proccessData: false,
+                    success: function(result)
+                    {
+                        if(sum_type == "summarize_sentences")
+                        {
+                            $.each(result, function(i, field)
+                            {
+                                $("div").append((result[0].sentence) + " ");
+                            });
+                        }
+                        else
+                        {
+                            $.each(result, function(i, val)
+                            {
+                                $("div").append('<li>' + val + '</ul>');
+                            });
+                        }
+
+                    }
+                });
+
+
+
+
+
+            });
+        });
+    </script>
+</head>
+<body>
+
+<!--
+<form>
+    <input class="summary_type" type="radio" name="test" value="keyword">Keywords<br>
+    <input class="summary_type" type="radio" name="test" value="topic">Topics<br>
+    <input class="summary_type" type="radio" name="test" value="summarize_sentences">Summary
+
+</form>
+<textarea rows="4" cols="50" name="value" id='value'>
+</textarea>
+-->
+
+<form ng-submit="addTodo()">
+    <input type="text" ng-model="todoText"  size="30"
+           placeholder="add new todo here">
+    <input class="btn-primary" type="submit" value="add">
+</form>
+
+<button>Get JSON data</button>
+<div>
+</div>
+</body>
+</html>

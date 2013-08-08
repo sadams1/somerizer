@@ -1,11 +1,17 @@
 Somesummarizer::Application.routes.draw do
   get "summarize/keyword"
+  post  "summarize/keyword"
 
   get "summarize/topic"
+  post "summarize/topic"
+
 
   get "summarize/summarize_percent"
+  post "summarize/summarize_percent"
 
   get "summarize/summarize_sentences"
+  post "summarize/summarize_sentences"
+
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
